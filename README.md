@@ -129,7 +129,7 @@ npm run dev
 
 ## 👨‍💻 Contributors
 
-See CONTRIBUTORS.md for the full list of contributors.
+See CONTRIBUTORS for the full list of contributors.
 
 ---
 
